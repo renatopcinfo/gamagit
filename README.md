@@ -8,5 +8,5 @@ A aplicação tem um funcionamento bastante simples: na página inicial, o usuá
 ### Iniciar a aplicação
 Para usá-la, basta executar os seguintes comandos na raíz do projeto:
 
-yarn
-yarn start
+- yarn
+- yarn start
